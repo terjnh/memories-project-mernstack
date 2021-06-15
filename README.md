@@ -1,3 +1,10 @@
+# Instructions for creating MERN project from scratch
+Part 1:
+https://www.youtube.com/watch?v=ngc9gnGgUdA
+
+Part 2:
+https://www.youtube.com/watch?v=aibtHnbeuio
+
 1) Create 2 folders:
     - client
     - server
@@ -29,3 +36,6 @@ Download latest node js for our OS
     - $ npm install axios moment react-file-base64 redux redux-thunk
 
 7) In client directory, delete default 'src' folder and re-create empty src folder
+
+8) In client directory,
+    - $ npm install @material-ui/core

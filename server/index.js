@@ -4,6 +4,9 @@ import bodyParser from 'body-parser';
 import mongoose from 'mongoose';
 import cors from 'cors';
 
+import "core-js/stable";
+import "regenerator-runtime/runtime";
+
 import postRoutes from './routes/posts.js';
 
 const app = express();
