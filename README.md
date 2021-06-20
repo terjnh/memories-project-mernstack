@@ -1,6 +1,7 @@
 # Instructions for creating MERN project from scratch
 Part 1:
 https://www.youtube.com/watch?v=ngc9gnGgUdA
+TimeStamp: 36:40
 
 Part 2:
 https://www.youtube.com/watch?v=aibtHnbeuio
@@ -39,3 +40,13 @@ Download latest node js for our OS
 
 8) In client directory,
     - $ npm install @material-ui/core
+
+
+## For Redux
+More folders need to be created, but helps make app scalable
+    - In /src/, create folders:
+        - actions
+        - reducers
+Ensure that react-redux is installed
+    - $ npm install react-redux
+
