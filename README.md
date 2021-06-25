@@ -1,10 +1,10 @@
 # Instructions for creating MERN project from scratch
 Part 1:
 https://www.youtube.com/watch?v=ngc9gnGgUdA
-TimeStamp: 36:40
 
 Part 2:
 https://www.youtube.com/watch?v=aibtHnbeuio
+
 
 1) Create 2 folders:
     - client
