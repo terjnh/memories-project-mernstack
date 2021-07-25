@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=ngc9gnGgUdA
 
 Part 2:
 https://www.youtube.com/watch?v=aibtHnbeuio
+Paused at - 28:20
 
 
 1) Create 2 folders:
